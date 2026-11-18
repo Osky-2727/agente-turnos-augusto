@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pyairtable
+groq
+pytz
+requests
+pydantic
